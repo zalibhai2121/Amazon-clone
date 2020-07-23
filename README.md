@@ -1,3 +1,11 @@
+## Amazon-clone:
+
+With the help of video-tutorial cleverprogrammers 
+
+Finished version:
+https://clone-3900c.web.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
