@@ -1,6 +1,6 @@
 ## Amazon-clone:
 
-With the help of video-tutorial cleverprogrammers 
+With the help of video-tutorial by cleverprogrammers 
 
 Finished version:
 https://clone-3900c.web.app/
